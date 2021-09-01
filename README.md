@@ -13,6 +13,5 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Visual Code"/></code>
 <code><img height="32" src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="MySQL"/></code>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/luix_fds)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luis-felipe-80a0121ba)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-ferreira-ab7ba2182/)
 
