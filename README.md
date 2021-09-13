@@ -1,5 +1,12 @@
 # <strong>Olá meu nome é Gabriel</strong>
 
+# Sobre mim
+> Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas e automação.
+
+> Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
+
+🔭 Atualmente estou estudando e fazendo projetos na area de automação, focando em utilizar python.
+
 <div>
   <a href="https://github.com/Harlock221B">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlock221B&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -20,4 +27,5 @@
 
   [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/Ferrerelvisqui)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-ferreira-ab7ba2182/)
+  
 
