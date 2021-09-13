@@ -1,6 +1,8 @@
 # <strong>Olá meu nome é Gabriel</strong>
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/Ferrerelvisqui)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-ferreira-ab7ba2182/)
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Harlock221B/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)]      (https://www.linkedin.com/in/gabriel-ferreira-ab7ba2182/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/https://twitter.com/Ferrerelvisqui)
+
 # Sobre mim
 > Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas e automação.
 
