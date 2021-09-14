@@ -18,7 +18,7 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
   <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/></code>
-  <code><img height="32" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" alt="Vue.js"/></code>
+  <code><img height="32" src="https://repository-images.githubusercontent.com/250853454/7ce48580-8fc2-11ea-821c-4d4950e0bc4a" alt="Vue.js"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
 <div>
