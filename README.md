@@ -5,7 +5,7 @@
 
 > Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
-🔭 Atualmente estou estudando e fazendo projetos na area de automação, focando em utilizar python.
+🔭 Atualmente estou estudando e fazendo projetos na area de automação ultilizando python.
 
 # 🚀 Minhas Skills
 
