@@ -3,9 +3,11 @@
 # Sobre mim
 > Trabalho na empresa CI&T em desenvolvimento web.
 
-> Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
+🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
-🔭 Atualmente estou estudando e fazendo projetos na area de automação ultilizando python.
+🔭 Experiente em criações de bots ultilizando Python.
+😎 Atualmente trabalhando com Java e React para aplicações Web.
+
 
 # 🚀 Minhas Skills
 
