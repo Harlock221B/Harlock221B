@@ -6,6 +6,7 @@
 🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
 🔭 Experiente em criações de bots ultilizando Python.
+
 😎 Atualmente trabalhando com Java e React para aplicações Web.
 
 
