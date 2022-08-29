@@ -1,7 +1,7 @@
 # <strong>Olá meu nome é Gabriel</strong>
 
 # Sobre mim
-> Trabalho na empresa CI&T em desenvolvimento web.
+🏢 Trabalho na empresa CI&T em desenvolvimento web.
 
 🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
