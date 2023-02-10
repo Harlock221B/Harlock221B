@@ -26,8 +26,3 @@
   <code><img height="32" src="https://repository-images.githubusercontent.com/250853454/7ce48580-8fc2-11ea-821c-4d4950e0bc4a" alt="Vue.js"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
-<div>
-  <a href="https://github.com/Harlock221B">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlock221B&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlock221B&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
