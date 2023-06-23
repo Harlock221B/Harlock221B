@@ -32,5 +32,6 @@
   <br>
   <div> 
     ![Snake animation](https://github.com/Harlock221B/Harlock221B/blob/output/github-contribution-grid-snake.svg)
+    ##
   </div>
 
