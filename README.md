@@ -25,3 +25,7 @@
   <code><img height="32" src="https://repository-images.githubusercontent.com/250853454/7ce48580-8fc2-11ea-821c-4d4950e0bc4a" alt="Vue.js"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauegatto&hide=css,html&langs_count=5&theme=nightowl&layout=compact"/>
+  </div>
+
