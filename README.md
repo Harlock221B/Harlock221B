@@ -6,7 +6,7 @@
 
 🔭 Experiente em criações de bots ultilizando Python.
 
-😎 Atualmente trabalhando com Java e React para aplicações Web.
+😎 Atualmente procurando uma oportunidade em Front-End ou FullStack aplicações Web.
 
 
 # 🚀 Minhas Skills
