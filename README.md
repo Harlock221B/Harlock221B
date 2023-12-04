@@ -4,6 +4,8 @@
 
 🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
+😍 Atualmente trabalhando com Desenvolvimento Nuvem, como BioDevOps na Sociedade Beneficiaria Israelita Albert Einstein. 
+
 🔭 Experiente em criações de bots ultilizando Python.
 
 😎 Atualmente procurando uma oportunidade em Front-End ou FullStack aplicações Web.
