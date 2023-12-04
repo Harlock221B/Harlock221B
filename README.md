@@ -6,10 +6,7 @@
 
 😍 Atualmente trabalhando com Desenvolvimento Nuvem, como BioDevOps na Sociedade Beneficiaria Israelita Albert Einstein. 
 
-🔭 Experiente em criações de bots ultilizando Python.
-
-😎 Atualmente procurando uma oportunidade em Front-End ou FullStack aplicações Web.
-
+🔭 Experiente em criações de bots, sistemas e APIS ultilizando Python.
 
 # 🚀 Minhas Skills
 
