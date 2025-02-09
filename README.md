@@ -4,7 +4,7 @@
 
 🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
 
-😍 Atualmente trabalhando com Desenvolvimento Nuvem, como BioDevOps na Sociedade Beneficiaria Israelita Albert Einstein. 
+😍 Atualmente trabalhando com Analise de Dados para Bioinformatas, como BioDevOps na Sociedade Beneficiaria Israelita Albert Einstein. 
 
 🔭 Experiente em criações de bots, sistemas e APIS ultilizando Python.
 
