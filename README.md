@@ -31,16 +31,6 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e inovação, focado em t
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harlock221B/Harlock221B/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harlock221B/Harlock221B/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Harlock221B/Harlock221B/output/github-snake.svg">
-</picture>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <div align="center">
