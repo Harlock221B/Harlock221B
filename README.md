@@ -1,32 +1,52 @@
-# <strong>Olá meu nome é Gabriel</strong>
+# Olá, eu sou o Gabriel Ferreira 👋
+### Analista de Dados Pleno & Desenvolvedor Front-End
 
-# Sobre mim
+Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e inovação, focado em transformar dados complexos em insights acionáveis e em criar interfaces web modernas e performáticas.
 
-🎓 Graduando em Técnologias de análise e desenvolvimento de sistemas na Universidade Estadual de Campinas.
+## 👨‍💻 Sobre mim
 
-😍 Atualmente trabalhando com Analise de Dados para Bioinformatas, como BioDevOps na Sociedade Beneficiaria Israelita Albert Einstein. 
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **Universidade Estadual de Campinas (UNICAMP)**.
+- 🏥 Atualmente atuando como **Analista de Dados** no **Hospital Israelita Albert Einstein**, integrando dados, criando automações e desenvolvendo soluções para bioinformática.
+- 🚀 Experiência sólida na criação de dashboards, bots, sistemas serverless e APIs.
+- 🌐 Explore meus projetos e minha trajetória no meu **[Portfólio Online](https://gabrielferreira-portfolio.vercel.app/)**.
 
-🔭 Experiente em criações de bots, sistemas e APIS ultilizando Python.
+---
 
-# 🚀 Minhas Skills
+## 🛠️ Minhas Skills
 
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-  <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
-  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python"/></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PyQt5"/></code>
-  <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"/></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" alt="Firebase"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" alt="PHP"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/></code>
-  <code><img height="32" src="https://repository-images.githubusercontent.com/250853454/7ce48580-8fc2-11ea-821c-4d4950e0bc4a" alt="Vue.js"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <br><br>
-  <div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harlock221B&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlock221B&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  
+**Data Science, Back-End & Cloud:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+**Front-End & UI:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlock221B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlock221B&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://gabrielferreira-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-020617?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:gabrielferreira47b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
